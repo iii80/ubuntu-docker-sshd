@@ -23,7 +23,7 @@ RUN { \
 
 ENV TZ Asia/Shanghai
 
-ENV ROOT_PASSWORD admin
+ENV ROOT_PASSWORD root
 
 EXPOSE 22
 
