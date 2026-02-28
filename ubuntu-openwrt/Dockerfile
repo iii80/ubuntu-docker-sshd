@@ -1,4 +1,4 @@
-FROM ubuntu:openwrt
+FROM ubuntu:24.04
 MAINTAINER "Hiroki Takeyama"
 
 ENV DEBIAN_FRONTEND=noninteractive
